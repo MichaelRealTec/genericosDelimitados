@@ -9,6 +9,17 @@ public class Program {
 		 *  de um arquivo, conforme exemplo, e depois mostre o mais caro deles.
 		 */
 		
+		/* Exemplo (entrar com os dados no programa)
+		 * Computer, 890.50
+		 * Iphone X, 910.00
+		 * Table, 550.00
+		 * 
+		 * saída do programa deve ser:
+		 * 
+		 * Most expensive:
+		 * Iphone X, 910.00
+		 * 
+		 */
 		
 		
 		
